@@ -15,4 +15,14 @@ I have extensive expertise in managing projects that span from data extraction t
 
 I consider myself a creative, communicative, and critical thinker. I strive to fully understand the situation at hand, make informed decisions based on the available data, and introduce new perspectives for exploration.
 
+<!-- ### Stuff Stacks :
+
+<div>
+    <div class = "flex">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    </div>
+
+</div> -->
+
+
 
