@@ -10,7 +10,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 
 
-
+<!-- 
 
 ## Experience 
 
@@ -18,7 +18,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 #### Skills 
 
-##### Latest Courses and Projects
+##### Latest Courses and Projects -->
 
 
 <!--
