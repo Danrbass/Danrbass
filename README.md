@@ -1,6 +1,8 @@
 
 # Hello World, I'm Daniel R. B. 📈
 
+![](https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-animation-download-in-lottie-json-gif-static-svg-file-formats--analytics-logo-statistics-computing-pack-business-animations-3479081.mp4)
+
 ## About Me. 
 
 My name is Daniel, and I am a Brazilian Business Intelligence and Data Analyst. I have been working in these roles since 2018, gaining experience in sectors such as retail, hospitality, consulting, real estate, and funeral services. I hold a Bachelor's degree in Production Engineering and a Technologist degree in Precision Mechanics.
