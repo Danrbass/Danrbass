@@ -1,6 +1,6 @@
-# Daniel Richard Bassani 👋
+# **Daniel Richard Bassani 👋
 
-## Aboutt Me. 
+## About Me. 
 
     My name is Daniel, I'm brazilian Business Intelligence and Data Analyst with experience 
 
@@ -10,7 +10,7 @@
 
 #### Skills 
 
-##### Latest Coureses
+##### Latest Courses and Projects
 
 
 <!--
