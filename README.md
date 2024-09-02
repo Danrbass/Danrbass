@@ -24,6 +24,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
     <ul class = "container-direction">
         <img class = "image-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     </ul>
+    ul.container
 
 
 </div>
