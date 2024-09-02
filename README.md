@@ -5,7 +5,11 @@
 
 <!-- ![](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif) -->
 
-<center>![](https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif)</center>
+<p align = center>
+    <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif"
+</p>
+
+![](https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif)
 
 ## About Me. 
 
