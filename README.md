@@ -3,7 +3,7 @@
 
 
 <p align = center>
-    <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif" alt = "PC Data Gif" width = 400>
+    <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif" alt = "PC Data Gif" width = 200>
 </p>
 
 
