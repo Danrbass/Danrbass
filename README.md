@@ -37,6 +37,13 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 |Courses      |Link Certificate |
 |-------------|-----------------|
 |A            |lim              |
+|             |                 |
+|             |                 |
+|             |                 |
+|             |                 |
+|             |                 |
+|             |                 |
+|             |                 |
 
 
 
