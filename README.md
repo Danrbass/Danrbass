@@ -1,6 +1,6 @@
 
-<center><h1>Hello World, I'm Daniel R. B. 📈
-</h1></center>
+<center><h1>Hello World, I'm Daniel R. B. 📈</h1></center>
+
 ## About Me. 
 
 My name is Daniel, and I am a Brazilian Business Intelligence and Data Analyst. I have been working in these roles since 2018, gaining experience in sectors such as retail, hospitality, consulting, real estate, and funeral services. I hold a Bachelor's degree in Production Engineering and a Technologist degree in Precision Mechanics.
