@@ -34,9 +34,9 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 ### Courses and Certificates
 
-|Courses      |Certificates|
-|-------------|------------|
-|
+|Courses      |Link Certificate |
+|-------------|-----------------|
+|A            |lim              |
 
 
 
