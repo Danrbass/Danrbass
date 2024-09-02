@@ -9,7 +9,7 @@
     <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif"
 </p>
 
-![](https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif)
+<!-- ![](https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif) -->
 
 ## About Me. 
 
