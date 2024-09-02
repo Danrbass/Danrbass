@@ -5,7 +5,7 @@
 
 <!-- ![](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif) -->
 
-![](https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif)
+<center>![](https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif)</center>
 
 ## About Me. 
 
