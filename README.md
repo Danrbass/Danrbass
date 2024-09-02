@@ -1,6 +1,7 @@
 
 # Hello World, I'm Daniel R. B. 📈
 
+<link rel = "stylesheet" type = "text/css" href = "style/style.css">
 
 <p align = center>
     <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif" alt = "PC Data Gif" width = 200>
@@ -18,7 +19,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 ### Stuff Stacks :
 
 
-<div display = table>
+<div class = "container">
     <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
     </ul>      
