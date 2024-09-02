@@ -1,7 +1,7 @@
 
 # Hello World, I'm Daniel R. B. 📈
 
-<link rel = "stylesheet" type = "text/css" href = "style/style.css">
+<link rel="stylesheet"  href = "style.css">
 
 <p align = center>
     <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif" alt = "PC Data Gif" width = 200>
