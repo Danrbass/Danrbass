@@ -18,7 +18,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 ### Stuff Stacks :
 
 <div class = "container">
-    <ul class = "container-direction">
+    <ul>
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
     </ul>      
     <ul>
