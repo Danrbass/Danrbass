@@ -3,10 +3,10 @@
 	flex-direction: column;
 }
 
-.flex-container > div {
+/* .flex-container > div {
 	margin: 10px;
 	padding: 20px;
-}
+} */
 
 .img-icon {
     width: 50px;
