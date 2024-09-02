@@ -19,10 +19,10 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 <div class = "flex-container">
     <ul class = "container-direction">
-        <img width = 50 height = 50 rc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
+        <img class = "image-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
     </ul>       
     <ul class = "container-direction">
-        <img width = 50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+        <img class = "image-size" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     </ul>
 
 
