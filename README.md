@@ -1,7 +1,7 @@
 
 # Hello World, I'm Daniel R. B. 📈
 
-![](https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-animation-download-in-lottie-json-gif-static-svg-file-formats--analytics-logo-statistics-computing-pack-business-animations-3479081.mp4)
+![](https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif)
 
 ## About Me. 
 
