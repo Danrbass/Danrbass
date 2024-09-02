@@ -1,4 +1,17 @@
-## Hi there 👋
+# Daniel Richard Bassani 👋
+
+## Aboutt Me. 
+
+    My name is Daniel, I'm brazilian Business Intelligence and Data Analyst with experience 
+
+## Experience 
+
+### Academy
+
+#### Skills 
+
+##### Latest Coureses
+
 
 <!--
 **Danrbass/Danrbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
