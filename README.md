@@ -25,6 +25,9 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     </ul> 
     <ul>
+        <i class="devicon-numpy-plain colored"></i>
+        </ul>
+    <ul>
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
     </ul>
     <ul>
