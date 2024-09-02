@@ -4,6 +4,11 @@
 	/* flex-direction: column; */
 }
 
+.container-image {
+    width: 50;
+    height: 50;
+}
+
 /* .flex-container > div {
 	margin: 10px;
 	padding: 20px;
