@@ -20,7 +20,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 
 <div align = center>
-    <img width = 6.25% padding = 15px margin = 15px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
+    <img width = 7.5% padding = 15px margin = 15px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
     <img width = 70 height = 70 padding = 15px margin = 15px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img width = 70 height = 70 padding = 15px margin = 15px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
     <img width = 70 height = 70 padding = 15px margin = 15px  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
