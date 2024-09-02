@@ -1,12 +1,11 @@
 .flex-container {
 	display: flex;
-    justify-content: center;
-	flex-direction: column;
+
 }
 
-.container-image {
-    width: 50;
-    height: 50;
+.container-direction {
+    justify-content: center;
+	flex-direction: column;
 }
 
 /* .flex-container > div {
