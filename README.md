@@ -1,4 +1,4 @@
-# **Daniel Richard Bassani 👋
+# Daniel Richard Bassani 👋
 
 ## About Me. 
 
