@@ -19,7 +19,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 ### Stuff Stacks :
 
 
-<div >
+<div align = center>
     <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
