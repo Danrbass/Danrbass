@@ -1,11 +1,11 @@
 .flex-container {
 	display: flex;
-
+    flex-direction: row;
 }
 
 .container-direction {
-    justify-content: center;
-	flex-direction: column;
+    justify-content: space-between;
+	
 }
 
 /* .flex-container > div {
