@@ -17,32 +17,36 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 ### Stuff Stacks :
 
+
 <div class = "container">
-    <ul>
+    <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
     </ul>      
-    <ul>
+    <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     </ul> 
     <ul>
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
     </ul>
-    <ul>
+    <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
     </ul>
-    <ul>
+    <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     </ul>
     <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     </ul>
-    <ul>
+    <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     </ul>
-    <ul>
+    <ul class = "container-direction">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    </ul>
+    <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     </ul>
-    <ul>
+    <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
     </ul>
     
