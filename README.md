@@ -1,15 +1,11 @@
 
 # Hello World, I'm Daniel R. B. 📈
-<!-- 
-![](https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif) -->
 
-<!-- ![](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif) -->
 
 <p align = center>
-    <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif" alt = "PC Data Gif">
+    <img src = "https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif" alt = "PC Data Gif" width = 400>
 </p>
 
-<!-- ![](https://media.tenor.com/2unHkuoMLhcAAAAM/data-code.gif) -->
 
 ## About Me. 
 
