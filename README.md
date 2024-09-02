@@ -19,7 +19,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 ### Stuff Stacks :
 
 
-<div class = "container">
+<div display = flex justify-content = space-between>
     <ul class = "container-direction">
         <img width = 70 height = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
     </ul>      
