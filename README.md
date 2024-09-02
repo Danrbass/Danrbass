@@ -18,10 +18,12 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 ### Stuff Stacks :
 
 <div class = "flex-container">
-
-<img width = 50 height = 50 rc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />          
-
-<img width = 50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <div>
+    <img width = 50 height = 50 rc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
+    </div>       
+    <div>
+    <img width = 50 height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    </div>
 
 
 </div>
