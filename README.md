@@ -32,5 +32,10 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 </div>
 
+### Courses and Certificates
+
+|Courses|Certificates|
+|-------|------------|
+
 
 
