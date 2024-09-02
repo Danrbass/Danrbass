@@ -19,10 +19,10 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 <div class = "flex-container">
     <div class = "img-icon">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />          
+        <img width = 20 height = 20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />          
     </div>
     <div class = "img-icon">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+        <img width = 20 height = 20  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     </div>
 
 </div>
