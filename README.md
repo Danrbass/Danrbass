@@ -20,9 +20,9 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 
 <div display = flex align = center justify-content = space-between>
-    <img width = 7.5% padding = 50px margin = 5rem src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
-    <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-    <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+    <img width = 7.5% padding = 10rem margin = 5rem src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
+    <img width = 7.5% padding = 10rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+    <img width = 7.5% padding = 10rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
