@@ -20,7 +20,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 
 
 <div display = flex align = center justify-content = space-between>
-    <img width = 7.5% padding = 50px margin = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
+    <img width = 7.5% padding = 50px margin = 5rem src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
@@ -30,7 +30,8 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="Power BI Logo" width="200" height="100">
+    <img width = 7.5% padding = 5rem margin = 5rem  src="https://cdn.iconscout.com/icon/free/png-256/microsoft-power-bi-569129.png" >
+
 
 </div>
 
