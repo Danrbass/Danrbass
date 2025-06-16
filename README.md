@@ -32,7 +32,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
         <img width = 7.5%  src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" >    
-        <img wisth = 7.5% scr="https://logowik.com/content/uploads/images/google-bigquery-icon6094.logowik.com.webp">
+        <img width = 7.5% scr="https://logowik.com/content/uploads/images/google-bigquery-icon6094.logowik.com.webp">
     </ul>
     
 </div>
