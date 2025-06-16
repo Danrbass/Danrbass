@@ -19,7 +19,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
 ### Stuff Stacks :
 
 <div display = flex align = center justify-content = space-between >
-    <ul padding = 10rem margin = 5rem>
+    <ul padding = 10rem margin = 5rem flex-wrap : wrap>
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
