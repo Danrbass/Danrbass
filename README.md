@@ -31,7 +31,7 @@ I consider myself a creative, communicative, and critical thinker. I strive to f
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
         <img width = 7.5%  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-        <img width = 6.0%  src="[https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png](https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000)" >    
+        <img width = 6.0%  src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" >    
     </ul>
     
 </div>
